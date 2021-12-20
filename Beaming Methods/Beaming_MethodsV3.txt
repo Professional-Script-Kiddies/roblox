@@ -1,0 +1,201 @@
+https://media.discordapp.net/attachments/896702060861476905/896961446779453520/Xsolla_Method.png
+
+Apple Chargeback:
+
+1. Buy robux on an alt.
+
+Make sure the alt is 2+ years old.
+
+2. After around 12-24 hours, Apple will send you the receipt of the purchase.
+
+3. Go to report a problem, and request a refund.
+
+4. For the reason, select “a child or minor made this purchase without my permission.”
+
+5. Your money will be refunded within 12-24 hours.
+
+To avoid getting banned, buy the robux on a vpn, and then log back in to the account on your normal ip.
+
+If roblox does not refund the money, message spanish roblox support and request a refund from them, they should respond and refund your money.
+﻿
+
+< ======================================================== >
+
+INFO:
+
+X. CB means chargeback.
+X. Please keep in mind people will try to scare you into thinking this is illegal. This is completely legal, don't let anyone scare you.
+X. Abuses ROBLOX instant CB (chargeback) feature.
+
+< ======================================================== >
+
+Roblox has a feature and it's called "instant charge back" feature on their PayPal, meaning any user that desires to chargeback what they want. regardless of the price however, this does result in an account termination.
+
+This is a quick and easy method to get get free Robux or free money, good luck n don't abuse it too much. These methods are usually monitored by Roblox.
+First of all you've gotta purchase a set ROBUX or Premium on the site ON AN ALTERNATIVE ACCOUNT via a PayPal account that you have access to.
+
+After that you've gotta USD sell the ROBUX or transfer the ROBUX to a group that one of your other groups own
+
+After this you've got to head to the ROBUX transaction on PayPal, scroll to the bottom and press "Report a problem", after pressing that, click "I didn't receive an item I purchased" and type in the description "I did not get the ROBUX that I purchased.
+
+Within 2 days ROBLOX support should fully refund you the money that you spent on the ROBUX, allowing you to keep the ROBUX that you put on the group or sold for USD.
+
+
+Getting a lot of limiteds and ROBUX may seem hard but it is really not, a lot of people
+use this method and it has worked countless times. By using my steps you are ensuring
+your extra limiteds and ROBUX and your safety.
+
+------------------
+
+There are 3 steps:
+1.)Getting a VPN and making 3 accounts
+2.)Emailing ROBLOX
+3.)Repeat
+
+------------------
+
+1.) First, you will need to get a VPN, I recommend a chrome extension VPN like dotVPN. After create an ROBLOX account
+with BC or buy 2 stolen cheap BC account on v3rm for 1 dollar each with VPN on and send a trade for any limited worth 4k
+ROBUX + to your main. Turn off the VPN and go on your main and accept the trade. After turn on the VPN and go on Account 1.
+Make sure you switch the VPN's IP every time you switch accounts and make sure you're not using the same IP. Turn on the VPN with a new IP address
+and go on Account 2 which then you will send a PM to Account 1 like this: "Hey, want free ROBUX? Go to freerobux.com".
+Then go on Account 1 and send all your items to Account 2. After creating Account 3 (different VPN IP) and send a PM to
+Account 2 like: "Send me a trade, I accept most good trades". Then make Account 3 send for all limiteds on Account 2
+and make Account 2 accept.
+
+2.)After that email ROBLOX with Account 1 (the account you made, not bought on v3rm) that all your ROBUX and Limiteds
+are gone and that you're a concerned parent and threaten them by asking for a phone number and stuff. After a couple
+of days, they will say that you will get the limited back OR MOST LIKELY they will give you the amount of ROBUX the
+limited was worth.
+
+3.)After that make Account 3 send the limited to your main and just forget about those accounts. Repeat the process
+with new accounts and keep doing this until you reach around the 100k limited area which you will be making 100k
+per a couple of days. Also, you can sell the limiteds for ROBUX.
+
+Adopt Me Dupe 
+
+1) Trade all of your pets to an alt account and tell Adopt Me you were scammed.
+2) On your alt account, trade your pets for other pets and trade the new pets to two different alt accounts.
+3) Send the new pets to your account that was "scammed" and your Adopt Me pets should be duplicated. 
+Second method :1) Create an ad in Marketplace servers, saying that you're selling Adopt Me pets.
+2) Sell the pets and use a middleman.
+3) Request your pets back from Adopt Me using the Trade License and use the trade where you gave the user the pets as proof.
+
+
+1k A DAY
+1k$ A Day AFK
+
+Reliable Method for making $1,000+ monthly by AFKing.
+This can make $15-$1,000+ monthly (depending on how you long you do it)
+(This can be difficult to setup, but it is definitely worth it.)
+
+From what I know this method has been completely private between at least like 10 people in the CS:GO Cheating community, and since I don't care much about this method I am releasing it.
+
+Step 1. You're going to need to buy a CS:GO hosting service and start a server. This is required, however the server will only be needed for one day and you will never have to worry about it again.
+
+Step 2. Make an account at https://portal.motdgd.com/registration (it will ask you for your address and stuff, just literally use fake information.
+
+Step 3. Once you have made an account, go to https://portal.motdg...hboard/overview and click on the Plugins tab. From there select and install the plugin to your server.
+Installation of the MOTDGD plugin is a bitch, but it is worth it. There are some tutorials on youtube to help install it.
+
+Step 4. Once the plugin is installed and you see an ad when you load into your server you should be able to get the link the ad is running through.
+(I havent needed to get my ad link in over 6 months or something, so I dont exactly remember where it is, but you need to find it.)
+
+Step 5. Now, if you do not already have Auto Hotkey installed, you need to install it now. It will be used for automating clicking when you AFK your computer.
+
+(Here is some code for an AHK script that will auto click on your ad link 60 times, wait 30 seconds so the ad finishes playing, and then close all the ads and restart the process.)
+default keybinds: F10 to start the script, F7 to pause, F8 to close.
+
+AutoClick :https://pastebin.com/YP9G9biP
+
+Step 6. Open a game that does not take much processing power, Press Shift+Tab to open the steam panel, goto your friends and find someone who hasnt been online in a long time and send them a message that is your ad link. When you send the message, if you click the link it should open your ad page and run a video/banner ad. Resize the window the ad plays in so it does not overlap the link you sent to your friend, and then simply open the AHK script I posted above, hover over the link, then press F10. it should start spam opening and closing the ads which is perfect.
+
+From here you just afk this whenever you sleep, or go to school, or any time you arent on your computer. my friend went as far as buying a sitty laptop to afk this on 24/7. He even afk'd it on his main pc when he wasnt using that so you really can afk this on as many PC's as you want.
+
+MOTDGD is very kind when it comes to showing us ad rates based on certain countries.
+For the best results I suggest using a VPN set to which country has the highest ad payout at the time. This is typically Australia.
+
+I wouldn't suggest going over $1,000 a month. Sometimes when you make too much money a month MOTDGD will check your account and ban you for this.
+
+
+-----------------------------------
+
+DOX V2
+
+try to find some info on them
+location, city, state
+name and last name
+phone num
+and use facebook or other social media for help if you need extra help finding some info on them
+
+---
+websites
+https://grabify.link/
+https://iplogger.org/
+
+if you have they ip then
+
+goto https://ipinfo.io/, paste ip and then get they city and state, you also gotta have they first and lastname (they must be above 18+)
+now goto https://searchpeoplefast.com/ or https://whitepages.com/ and they info show
+
+goto https://whitepages.com/ or https://searchpeoplefast.com/ and enter they name and last name, city and state
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DOX V1
+
+--i didnt make this just copied and paste
+Dox Method
+
+1. Find your victim.
+2. Once you did, try to develop some time of friendship with them.
+3. Once you’ve became friends, try to ask if they have instagram, or facebook, or any social media they might have their name on.
+4. If they’re under 18+ try to ask them what their mom/dads name is but try not to be sus. 
+5. Ask what country they live in. once they tel you be like oh fr? me too! And then say what city? and once they tell you, you have all the information you need about them.
+6. Once you have either their first and last name, or their parents first and last, go to https://whitepages.com/person .
+7. Next, you wanna type in their first and paste name or their parents first and last name AND their city.
+8. A page should pull up about their relatives, recent addresses, etc. 
+9. You can dox/swat them or whatever you want. BUT BE CAREFUL
+i’m not responsible for anything that happens
+
+
+https://drive.google.com/file/d/1qfvgk7C3sP3KWoH-iHGG2EHNoCaWisIg/edit
+
+discord.gg/infamous 
+discord.gg/dahood
+discord.gg/amd
+discord.gg/amv 
+discord.gg/adoptme 
+discord.gg/murdermystery2 
+discord.gg/EvphR3wwTJ 
+discord.gg/u92g69g 
+discord.gg/mP63Vgb 
+discord.gg/rolimons
+
+Ban User Method
+
+method 1
+upload a nsfw picture
+method 2
+Pretend to be their parent and email roblox saying that you want to deactivate your kids account (enter username) because he/she is playing games all day
+method 3
+If you beam an account and you want to term it Or just a bypass and insult peoples
+
+
+1. First , get the extension Edit This Cookie to Google Chrome
+
+2. Once you have the extension installed and have your cookie ready, you want to go to Roblox.com and click on the extension on your topbar.
+
+3. A dropdown will appear and you want to navigate to ".ROBLOSECURITY"
+
+4. Once on RobloxSecurity replace the current cookie with the cookie you grabbed and hit the checkmark at the bottom of the dropdown
+
+5. Refresh your page and you should be signed into their account
+EditThisCookie
+
+EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!
+
+BTW if the victim logs out of their account you won't be able to login with the cookies anymore as it will be reset...

