@@ -1,4 +1,4 @@
-# ROblox Pin Cracker
+# Roblox Pin Cracker
 
 This is a roblox pin cracker if you have forgotten and need to recover.
 
